@@ -6,4 +6,4 @@
 
 Profit-driven vs Growth driven Startups: How do varying financial strategies in startups—profit-driven stability versus growth-driven expansion—affect their long-term sustainability, innovation, and success within dynamic market landscapes
 
-🙇‍♀️ To view the research case study please click [here]([url](https://github.com/vaishali071017/Profit-driven-VS-Growth-driven/blob/main/Profit%20driven%20vs%20growth%20driven.pdf))
+🙇‍♀️ To view the research case study please click [here](https://github.com/vaishali071017/Profit-driven-VS-Growth-driven/blob/main/Profit%20driven%20vs%20growth%20driven.pdf)
